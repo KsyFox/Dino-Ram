@@ -1,0 +1,28 @@
+.App {
+    text-align: center;
+}
+
+canvas {
+    border: 1px solid black;
+    margin: 20px auto;
+    display: block;
+}
+.na {
+    color: black;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: white;
+    padding: 5px;
+    font-family: "Cochin", emoji;
+    font-size: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top:20px;
+}
+.sa {
+    font-family: "Cochin", emoji;
+    border: 2px solid ;
+    border-radius: 5px;
+}
